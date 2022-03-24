@@ -17,9 +17,19 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: JUMO
+  title-url: https://jumo.world/
+  date: Mar 2021 - Present
+  subtitle: Junior Software Engineer
+  tags:
+    - tag: Spring
+    - tag: Java
+    - tag: Kotlin
+  timeline-side: left
+
 - title: SafeLori
   title-url: https://safelori.com/
-  date: April 2021 - Dec 2021
+  date: Apr 2021 - Dec 2021
   subtitle: Android Engineer
   tags:
     - tag: Android
@@ -30,7 +40,7 @@
 
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
-  date: Nov 2018 - Present
+  date: Nov 2018 - Mar 2022
   subtitle: Chief Technology Officer
   tags:
     - tag: Android
