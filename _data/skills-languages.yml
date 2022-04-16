@@ -9,7 +9,7 @@
   weight: 5
 
 - name: Kotlin
-  weight: 2
+  weight: 5
   
 - name: Python
   weight: 2
