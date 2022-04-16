@@ -11,5 +11,12 @@
 - name: Spring Boot
   weight: 5
 
-- name: Android
+- name: Event sourcing
   weight: 5
+  
+- name: Actor Model
+  weight: 5
+
+- name: Clean Architecture
+  weight: 5  
+  
