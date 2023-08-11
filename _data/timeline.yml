@@ -19,7 +19,18 @@
 
 - title: JUMO
   title-url: https://jumo.world/
-  date: Mar 2022 - Present
+  date: Aug 2023 - Present
+  subtitle: Software Engineer
+  tags:
+    - tag: Spring
+    - tag: Java
+    - tag: Kotlin
+    - tag: AWS
+  timeline-side: right
+
+- title: JUMO
+  title-url: https://jumo.world/
+  date: Mar 2022 - Aug 2023
   subtitle: Junior Software Engineer
   tags:
     - tag: Spring
